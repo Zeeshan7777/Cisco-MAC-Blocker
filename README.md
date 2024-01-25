@@ -1,2 +1,2 @@
 # Cisco-MAC-Blocker
-Cisco MAC Blocker block unwanted MAC address on Cisco Switch VLan200.
+Cisco MAC Blocker block unwanted MAC addresses on Cisco Switch VLan200.
