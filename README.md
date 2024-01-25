@@ -1,2 +1,2 @@
 # Cisco-MAC-Blocker
-Python Script to Block and unblock MAC addresses on Cisco layer 3 switches
+Cisco MAC Blocker block unwanted MAC address on Cisco Switch VLan200.
